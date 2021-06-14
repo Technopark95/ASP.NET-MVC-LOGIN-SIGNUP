@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\netcoreapp3.1\</_PublishTargetUrl>
+    <History>True|2021-06-10T17:37:52.4654533Z;True|2021-06-10T21:14:51.5882051+05:30;True|2021-06-10T20:44:15.4908049+05:30;True|2021-06-10T15:58:29.7912455+05:30;False|2021-06-10T15:57:25.3153989+05:30;</History>
+  </PropertyGroup>
+</Project>

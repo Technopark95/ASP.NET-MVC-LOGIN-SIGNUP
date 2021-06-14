@@ -1,0 +1,36 @@
+﻿
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="~/css/Dash.css"/>
+    <title>Index</title>
+</head>
+<body>
+    <div class="top-banner">
+
+        <div class="overlay"></div>
+        <div class="labelcont">
+            <label class="welcome">Welcome!<br>@TempData["fname"] @TempData["lname"]</label>
+        </div>
+
+
+        <button id="signout">Logout</button>
+    </div>
+
+    <script>
+
+        document.getElementById("signout").onclick = function (e) {
+
+
+           
+            let url = `${window.location.origin}/Dash/Logout`;
+            window.location.href = url;
+
+
+        }
+
+
+
+    </script>
+</body>
+</html>
